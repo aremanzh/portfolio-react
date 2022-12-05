@@ -1,9 +1,9 @@
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Home from "./components/Home";
-import Navbar from "./components/Navbar";
-import Skills from "./components/Skills";
-import Work from "./components/Work";
+import About from "./components/About.jsx";
+import Contact from "./components/Contact.jsx";
+import Home from "./components/Home.jsx";
+import Navbar from "./components/Navbar.jsx";
+import Skills from "./components/Skills.jsx";
+import Work from "./components/Work.jsx";
 import AnimatedCursor from "react-animated-cursor";
 
 function App() {
